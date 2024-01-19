@@ -8,3 +8,26 @@
 - Use console.log() to print each variable to the console.
 
 - Use the typeof operator to check the data type of each variable and print the result using console.log(). */
+let age = 18;
+let name = "quan";
+let isStudent = true;
+let hobbies = ["running", "sleeping"];
+let info = {
+    schoolName: "HBC",
+    grade: 10
+};
+
+console.log(age);
+console.log(name);
+console.log(isStudent);
+console.log(hobbies);
+console.log(info);
+
+console.log(typeof age);
+console.log(typeof name);
+console.log(typeof isStudent);
+console.log(typeof hobbies);
+console.log(typeof info);
+
+
+
