@@ -13,3 +13,4 @@ console.log(name);
 
 let first = "ALEX".toLowerCase();
 console.log(first);
+

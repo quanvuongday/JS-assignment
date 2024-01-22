@@ -9,11 +9,3 @@ console.log(shoutMyName('Sam')); // "SAM"
 console.log(shoutMyName('Charley')); // "CHARLEY"
 console.log(shoutMyName('alex')); // "ALEX"
 
-let name = "Sam".toUpperCase();
-console.log(name);
-
-let first = "Charley".toUpperCase();
-console.log(first);
-
-let last = "alex".toUpperCase();
-console.log(last);
