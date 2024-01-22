@@ -8,3 +8,14 @@ function getLastCharacter(name) {}
 console.log(getLastCharacter('Sam')); // "m"
 console.log(getLastCharacter('Alex')); // "x"
 console.log(getLastCharacter('Charley')); // "y"
+
+let name = 'Sam';
+console.log(name.slice(-1));
+
+let fn = 'Alex'.slice(-1);
+console.log(fn);
+
+let str = 'Charley';
+let lastLetter = str[str.length- 1];
+console.log(lastLetter);
+
