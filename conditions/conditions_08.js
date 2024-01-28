@@ -10,3 +10,13 @@ Returns a string combining the number and the appropriately pluralized form of t
 console.log('I have ' + pluralize('cat', 0));
 console.log('I have ' + pluralize('dog', 1));
 console.log('I have ' + pluralize('parrot', 7));
+
+
+/* 
+function pluralize(pet, amount){
+if(amount > 2){
+    return pet + 's';
+} else {
+    retuen pet;
+}
+}
